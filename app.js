@@ -1,5 +1,6 @@
 const products = [
-    "Detox Energy",
+    "Detox",
+    "Energy",
     "Amita φρουτοποτο",
     "Amita Motion",
     "Amita Peach",
